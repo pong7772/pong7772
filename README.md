@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>វិសុទ្ធិពង្ស🙏🏻, Hi there! I'm Visothipong! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/63217018/177728248-22d24863-8f42-48e0-9695-6247f5649160.gif" width="250">
+<img align='right' src="https://user-images.githubusercontent.com/63217018/177740617-ddf58d84-b6f6-4909-96e7-0297b5382cc6.gif" width="250">
 <p><em>Software Engineer at <a href="zandokh.com">Zando
 </a><img src="https://user-images.githubusercontent.com/63217018/177740617-ddf58d84-b6f6-4909-96e7-0297b5382cc6.gif" width="30"> 
 </em></p>
