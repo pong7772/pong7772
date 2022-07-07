@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>វិសុទ្ធិពង្ស🙏🏻, Hi there! I'm Visothipong! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
+<p><em>Software Engineer at <a href="zandokh.com">Zando
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -24,7 +24,7 @@ npx anmol
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-### <img src="![code-coding](https://user-images.githubusercontent.com/63217018/177721545-47bc108c-c000-4f84-91c0-9aff5490d6a6.gif)" width="50"> A little more about me...  
+### <img src="https://user-images.githubusercontent.com/63217018/177721836-9376e46a-dda0-4a20-95d0-f05ab635bf10.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
