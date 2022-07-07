@@ -24,8 +24,7 @@ npx anmol
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-### <img src="![gif](https://user-images.githubusercontent.com/63217018/177721130-e93213b7-b8d7-420b-b37c-8ac76bb2b5fd.gif)
-" width="50"> A little more about me...  
+### <img src="![code-coding](https://user-images.githubusercontent.com/63217018/177721545-47bc108c-c000-4f84-91c0-9aff5490d6a6.gif)" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
