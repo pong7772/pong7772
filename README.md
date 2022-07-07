@@ -45,7 +45,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Programming languages
 
 <p align="left"> 
 &emsp;
@@ -67,7 +67,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp; 
 </p>
 
-### 👉 Frontend Development
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -100,7 +100,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp; 
 </p>
 
-### 👉 Databases & Cloud Hosting
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
@@ -119,7 +119,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  &emsp; 
 </p>
   
-### 👉Graphic Designing
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Mobile App
 <p align="left">
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -139,6 +139,14 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   </a>
 &emsp; 
  </p>
+
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Graphic Designing
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white">
+	</a>
+ </p>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
