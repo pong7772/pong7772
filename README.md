@@ -45,7 +45,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ## 🛠️ Visothipong'Skills
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Programming languages
+### <img src="https://miro.medium.com/max/1000/1*_wxwNuxszA6vwQIUMbF-fw.gif" width="30"/> Programming languages
 
 <p align="left"> 
 &emsp;
@@ -63,7 +63,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp; 
 </p>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Frontend Development
+### <img src="https://www.logigroup.com/images/modules/react.gif" width="30"/> Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
