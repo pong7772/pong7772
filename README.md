@@ -1,6 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>វិសុទ្ធិពង្ស🙏🏻, Hi there! I'm Visothipong! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img align='right' src="https://user-images.githubusercontent.com/63217018/177728248-22d24863-8f42-48e0-9695-6247f5649160.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/63217018/177728248-22d24863-8f42-48e0-9695-6247f5649160.gif" width="250">
 <p><em>Software Engineer at <a href="zandokh.com">Zando
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -43,6 +42,103 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+&emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+&emsp; 
+</p>
+
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%2320232a.svg?logo=vuejs&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="materialui" src="https://img.shields.io/badge/MaterialUI-%231976d2.svg?style=flat&logo=materialui&logoColor=white"/>
+  </a>
+&emsp; 
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  &emsp;
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>  
+    &emsp;
+    <a href="https://www.heroku.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2313aa52.svg?logo=mongodb&logoColor=white"></a>  
+    &emsp;
+    <a href="https://www.heroku.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23232f3e.svg?logo=AWS&logoColor=white"></a>  
+ &emsp; 
+</p>
+  
+### 👉Graphic Designing
+<p align="left">
+  &emsp;  
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
+	</a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+&emsp; 
+ </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
