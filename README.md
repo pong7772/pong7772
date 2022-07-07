@@ -16,6 +16,13 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
 
+<h3> Here's some fun facts about me: </h3>
+
+-  **I'm a hopeful web and app developer 👩🏻‍💻**
+-  **I'd love to get into a career in science in the future alongside programming 👩🏻‍⚕️**
+-  *****LOVE*** playing soccer/football ⚽!**
+-  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) 🙂**
+
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
@@ -45,7 +52,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ## 🛠️ Visothipong'Skills
 
-### <img src="https://miro.medium.com/max/1000/1*_wxwNuxszA6vwQIUMbF-fw.gif" width="30"/> Programming languages
+### <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="30"/> Programming languages
 
 <p align="left"> 
 &emsp;
@@ -162,58 +169,22 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-🌆 Daytime    285 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
-🌃 Evening    226 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
-🌙 Night      114 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5%
+🌞 Morning    2 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+🌆 Daytime    5 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
+🌃 Evening    2 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
+🌙 Night      3 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5%
 
-```
-📅 **I'm Most Productive on Sunday** 
+### Here's my github README stats:
 
-```text
-Monday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-Tuesday      75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
-Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-Thursday     94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Friday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
-Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-Sunday       139 commits    █████░░░░░░░░░░░░░░░░░░░░   20.12%
-
-```
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=pong7772&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pong7772&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pong7772)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-📊 **This Week I Spent My Time On** 
+### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
-💬 Programming Languages: 
-JavaScript               15 hrs 59 mins      ████████████████████░░░░░   82.62% 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
-Java                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
-
-🔥 Editors: 
-WebStorm                 18 hrs 11 mins      ███████████████████████░░   93.94% 
-Android Studio           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Mac                      19 hrs 21 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
-Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
-
-```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
