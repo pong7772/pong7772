@@ -29,8 +29,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -43,7 +43,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-## 🛠️ My Skills
+## 🛠️ Visothipong'Skills
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Programming languages
 
@@ -52,10 +52,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -83,10 +79,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%2320232a.svg?logo=vuejs&logoColor=white">
   </a> 
    &emsp;
@@ -98,6 +90,11 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
     <img alt="materialui" src="https://img.shields.io/badge/MaterialUI-%231976d2.svg?style=flat&logo=materialui&logoColor=white"/>
   </a>
 &emsp; 
+	  &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Antd Design" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png?style=flat&logo=materialui&logoColor=white"/>
+  </a>
+&emsp;
 </p>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Databases & Cloud Hosting
@@ -119,7 +116,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  &emsp; 
 </p>
   
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Mobile App
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Graphic design
 <p align="left">
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -140,11 +137,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp; 
  </p>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Graphic Designing
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Mobile App
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank">
+	&emsp; 
+  <a href="www.visothipong.xyz" target="_blank">
     <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white">
 	</a>
+	&emsp; 
  </p>
 
 
@@ -152,8 +151,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <p align="center">
 <a href="https://github.com/pong7772">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pong7772&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pong7772&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -161,22 +160,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1473-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 529 Contributions in the Year 2022
- > 
-> 📦 169.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 21 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
