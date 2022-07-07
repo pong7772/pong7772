@@ -1,11 +1,8 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>វិសុទ្ធិពង្ស🙏🏻, Hi there! I'm Visothipong! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-
-https://user-images.githubusercontent.com/63217018/177720547-595dc765-84bb-4a0a-8b5b-663290b2c003.mp4
 
 
 [![Linkedin: visothipong](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roth-samnangvisothipong-3333ab1aa/)](https://www.linkedin.com/in/roth-samnangvisothipong-3333ab1aa/)
@@ -27,7 +24,8 @@ npx anmol
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="![gif](https://user-images.githubusercontent.com/63217018/177721130-e93213b7-b8d7-420b-b37c-8ac76bb2b5fd.gif)
+" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
