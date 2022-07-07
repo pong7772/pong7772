@@ -159,7 +159,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pong7772&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pong7772&layout=compact&langs_count=8&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pong7772&show_icons=true&theme=radical"/>
-	<img height="180em" src="https://github-profile-trophy.vercel.app/?username=pong7772)](https://github.com/ryo-ma/github-profile-trophy)"/>
+	[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 </a>
 </p>
 
