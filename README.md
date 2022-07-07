@@ -174,7 +174,9 @@ text
 ### Here's my github README stats:
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=pong7772&show_icons=true&theme=radical) 
+&emsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pong7772&theme=radical)](https://git.io/streak-stats) 
+&emsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=pong7772)](https://github.com/ryo-ma/github-profile-trophy)
 
 
