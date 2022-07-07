@@ -20,8 +20,7 @@
 
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I'd love to get into a career in science in the future alongside programming 👩🏻‍⚕️**
--  *****LOVE*** playing soccer/football ⚽!**
--  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) 🙂**
+-  *****LOVE*** playing soccer/football ⚽!**🙂**
 
 ### 📫 Like to meet me?
 
@@ -103,7 +102,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp;
 </p>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Databases & Cloud Hosting
+### <img src="https://i.gifer.com/NY0y.gif" width="30"/> Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
@@ -143,7 +142,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp; 
  </p>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Mobile App
+### <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" width="30"/>Mobile App
 <p align="left">
 	&emsp; 
   <a href="www.visothipong.xyz" target="_blank">
