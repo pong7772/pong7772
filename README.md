@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>វិសុទ្ធិពង្ស🙏🏻, Hi there! I'm Visothipong! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/63217018/177728248-22d24863-8f42-48e0-9695-6247f5649160.gif" width="250">
 <p><em>Software Engineer at <a href="zandokh.com">Zando
-</a><img src="https://user-images.githubusercontent.com/63217018/177740091-308df7b4-529b-4628-ac82-98235e27eec8.png" width="30"> 
+</a><img src="https://user-images.githubusercontent.com/63217018/177740317-9847d327-f33d-469d-b836-a861533e7609.png" width="30"> 
 </em></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
