@@ -90,9 +90,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
     <img alt="materialui" src="https://img.shields.io/badge/MaterialUI-%231976d2.svg?style=flat&logo=materialui&logoColor=white"/>
   </a>
 &emsp; 
-	  &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Antd Design" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png?style=flat&logo=materialui&logoColor=white"/>
+    <img alt="Antd Design" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png?style=flat&logo=materialui&logoColor=white"  width="30"/>
   </a>
 &emsp;
 </p>
