@@ -161,13 +161,11 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </a>
 </p>
 
----
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2011%20mins-blue)
 
 **I'm an Early 🐤** 
 
-```text
+text
 🌞 Morning    2 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
 🌆 Daytime    5 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
 🌃 Evening    2 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
@@ -185,7 +183,3 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
-YyMTcyNTA5XX0=
--->
