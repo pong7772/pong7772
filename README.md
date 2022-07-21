@@ -151,33 +151,4 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 	&emsp; 
  </p>
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/pong7772">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pong7772&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pong7772&layout=compact&langs_count=8&theme=algolia"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=pong7772"/>
-</a>
-</p>
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2011%20mins-blue)
-
-**I'm an Early 🐤** 
-
-text
-🌞 Morning    2 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%
-
-🌆 Daytime    5 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
-
-🌃 Evening    2 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
-
-🌙 Night      3 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5%
-
-
-### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
